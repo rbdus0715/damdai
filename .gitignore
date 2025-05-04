@@ -9,3 +9,5 @@ dist/
 *.egg-info/
 .venv/
 *.log
+generative-ai-on-aws
+.env
